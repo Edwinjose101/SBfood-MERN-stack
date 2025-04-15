@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Veg Burger",
+      "CategoryName": "Snacks",
+      "img": "https://source.unsplash.com/900x700/?burger",
+      "options": [{"regular": "50", "cheese": "70"}],
+      "price": "50"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Pizza",
+      "CategoryName": "Fast Food",
+      "img": "https://source.unsplash.com/900x700/?pizza",
+      "options": [{"small": "150", "medium": "250"}],
+      "price": "150"
+    }
+  ]
+  
